@@ -1,0 +1,15 @@
+C:\Users\samsung\Documents\Senai_UC15_SA2\bin\Debug\net7.0\Senai_UC15_SA2.exe
+C:\Users\samsung\Documents\Senai_UC15_SA2\bin\Debug\net7.0\Senai_UC15_SA2.deps.json
+C:\Users\samsung\Documents\Senai_UC15_SA2\bin\Debug\net7.0\Senai_UC15_SA2.runtimeconfig.json
+C:\Users\samsung\Documents\Senai_UC15_SA2\bin\Debug\net7.0\Senai_UC15_SA2.dll
+C:\Users\samsung\Documents\Senai_UC15_SA2\bin\Debug\net7.0\Senai_UC15_SA2.pdb
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.csproj.AssemblyReference.cache
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.AssemblyInfoInputs.cache
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.AssemblyInfo.cs
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.csproj.CoreCompileInputs.cache
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.dll
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\refint\Senai_UC15_SA2.dll
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.pdb
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\Senai_UC15_SA2.genruntimeconfig.cache
+C:\Users\samsung\Documents\Senai_UC15_SA2\obj\Debug\net7.0\ref\Senai_UC15_SA2.dll
